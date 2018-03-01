@@ -1,0 +1,23 @@
+Simulação de como deveria ter feito no trabalho
+Em que:
+
+-tava em master
+-criei pasta do bate
+	-criei branch
+	-comitei
+-afinal nao podia puxar pasta xbate mas tinha de puxar pasta stm
+-manualmente pus tudo como estava originalmente
+-criei pasta stm +outro branch e pushei
+-agora tenho de manualmente voltar a inserir pasta stm e puxar
+
+
+
+
+
+Brainstorming:--------------------------------
+Procurar tutoriais com exercicios/historylines fixes
+Criar um repositorio com as minhas proprias notes/comandos do github!(2 em 1)
+Experimentar configurar ssh
+
+
+
