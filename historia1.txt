@@ -18,6 +18,9 @@ Brainstorming:--------------------------------
 Procurar tutoriais com exercicios/historylines fixes
 Criar um repositorio com as minhas proprias notes/comandos do github!(2 em 1)
 Experimentar configurar ssh
+-Fazer uma compilação com as melhores respostas de como gerir determinadas situações(Ver links)
 
+Links:----------------------------------------
+https://stackoverflow.com/questions/4630312/reset-all-changes-after-last-commit-in-git
 
 
